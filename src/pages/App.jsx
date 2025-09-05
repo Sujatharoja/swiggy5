@@ -4,7 +4,8 @@ import AppLayout from "../layouts/AppLayout";
 import Search from "../pages/search"
 import Home from "../pages/Home"
 import RestoPage from "../pages/resto"
-import Cart from "../pages/cart"
+import Cart from "../pages/Cart"
+
 import Store from "../redux/store"
 import { Provider } from "react-redux";
 
